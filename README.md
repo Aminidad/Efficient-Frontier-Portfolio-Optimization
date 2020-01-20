@@ -13,10 +13,10 @@ As there are no structure, APIs or frameworks for TSE market, Odin also scrapes 
 - Calculates Efficient Frontier with a fixed random Seed for consistency.
 
 # Required Libraries
-Python 3
-Pandas
-QuandL
-numPy
-MatplobLib
+- Python 3
+- Pandas
+- QuandL
+- numPy
+- MatplobLib
 
 
