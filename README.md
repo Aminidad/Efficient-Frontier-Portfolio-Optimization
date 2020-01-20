@@ -19,4 +19,11 @@ As there are no structure, APIs or frameworks for TSE market, Odin also scrapes 
 - numPy
 - MatplobLib
 
+# Usage
+- If you're using TSE put your desired stock csv files ( acquired from Bazaar Downloader) into stock_csv folder.
+
+# Credits
+This software is Developed by:
+- Alireza Aminidad
+- Amirhossein Nemati Guive
 
